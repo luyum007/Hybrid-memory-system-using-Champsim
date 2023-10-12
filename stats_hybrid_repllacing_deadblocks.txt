@@ -1,0 +1,106 @@
+parsec_2.1.canneal.simlarge.prebuilt.drop_3000M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.269555 instructions: 10000001 cycles: 37098207
+parsec_2.1.vips.simlarge.prebuilt.drop_7500M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.71406 instructions: 10000002 cycles: 5834093
+parsec_2.1.dedup.simlarge.prebuilt.drop_7250M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.677842 instructions: 10000000 cycles: 14752711
+perl.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.25947 instructions: 10000000 cycles: 7939862
+parsec_2.1.bodytrack.simlarge.prebuilt.drop_3500M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.50958 instructions: 10000002 cycles: 6624360
+test2.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.6416 instructions: 10000002 cycles: 6091632
+parsec_2.1.vips.simlarge.prebuilt.drop_19250M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.68501 instructions: 10000000 cycles: 5934683
+parsec_2.1.vips.simlarge.prebuilt.drop_10500M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.68436 instructions: 10000000 cycles: 5936974
+parsec_2.1.swaptions.simlarge.prebuilt.drop_4250M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.36761 instructions: 10000002 cycles: 7312027
+parsec_2.1.dedup.simlarge.prebuilt.drop_29000M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.947761 instructions: 10000000 cycles: 10551185
+parsec_2.1.blackscholes.simlarge.prebuilt.drop_1750M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.34373 instructions: 10000001 cycles: 7441953
+parsec_2.1.vips.simlarge.prebuilt.drop_25250M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.66341 instructions: 10000000 cycles: 6011741
+parsec_2.1.canneal.simlarge.prebuilt.drop_5000M.length_15M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.184085 instructions: 10000000 cycles: 54322773
+parsec_2.1.bodytrack.simlarge.prebuilt.drop_6750M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.5042 instructions: 10000000 cycles: 6648065
+parsec_2.1.dedup.simlarge.prebuilt.drop_3750M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.934441 instructions: 10000002 cycles: 10701591
+parsec_2.1.swaptions.simlarge.prebuilt.drop_0M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.36637 instructions: 10000003 cycles: 7318681
+parsec_2.1.facesim.simlarge.prebuilt.drop_9750M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.44453 instructions: 10000001 cycles: 6922662
+parsec_2.1.raytrace.simlarge.prebuilt.drop_25500M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.71281 instructions: 10000001 cycles: 5838369
+parsec_2.1.canneal.simlarge.prebuilt.drop_4500M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.258257 instructions: 10000002 cycles: 38721057
+parsec_2.1.facesim.simlarge.prebuilt.drop_750M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.669118 instructions: 10000000 cycles: 14945047
+parsec_2.1.swaptions.simlarge.prebuilt.drop_15000M.length_93M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.3626 instructions: 10000000 cycles: 7338919
+parsec_2.1.streamcluster.simlarge.prebuilt.drop_6250M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.502067 instructions: 10000000 cycles: 19917646
+parsec_2.1.bodytrack.simlarge.prebuilt.drop_2000M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.51062 instructions: 10000000 cycles: 6619814
+parsec_2.1.blackscholes.simlarge.prebuilt.drop_4000M.length_216M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.33981 instructions: 10000002 cycles: 7463741
+parsec_2.1.raytrace.simlarge.prebuilt.drop_25000M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.85662 instructions: 10000000 cycles: 5386138
+parsec_2.1.raytrace.simlarge.prebuilt.drop_23500M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.52535 instructions: 10000002 cycles: 6555885
+parsec_2.1.fluidanimate.simlarge.prebuilt.drop_9500M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.0873 instructions: 10000001 cycles: 9197119
+parsec_2.1.raytrace.simlarge.prebuilt.drop_23750M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.891154 instructions: 10000001 cycles: 11221412
+parsec_2.1.vips.simlarge.prebuilt.drop_27250M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.60425 instructions: 10000000 cycles: 6233438
+parsec_2.1.facesim.simlarge.prebuilt.drop_4750M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.13218 instructions: 10000001 cycles: 8832504
+parsec_2.1.canneal.simlarge.prebuilt.drop_500M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.425549 instructions: 10000001 cycles: 23499037
+parsec_2.1.canneal.simlarge.prebuilt.drop_4750M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.189539 instructions: 10000000 cycles: 52759580
+parsec_2.1.raytrace.simlarge.prebuilt.drop_16500M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.02284 instructions: 10000000 cycles: 9776733
+parsec_2.1.swaptions.simlarge.prebuilt.drop_5250M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.36442 instructions: 10000001 cycles: 7329139
+400.perlbench-41B.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.519027 instructions: 10000000 cycles: 19266821
+parsec_2.1.blackscholes.simlarge.prebuilt.drop_3000M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.34392 instructions: 10000001 cycles: 7440918
+parsec_2.1.raytrace.simlarge.prebuilt.drop_250M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.04369 instructions: 10000002 cycles: 9581363
+parsec_2.1.fluidanimate.simlarge.prebuilt.drop_10250M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.804554 instructions: 10000000 cycles: 12429247
+parsec_2.1.vips.simlarge.prebuilt.drop_33250M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.6351 instructions: 10000002 cycles: 6115822
+parsec_2.1.vips.simlarge.prebuilt.drop_32250M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.61589 instructions: 10000003 cycles: 6188528
+parsec_2.1.blackscholes.simlarge.prebuilt.drop_2000M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.34308 instructions: 10000002 cycles: 7445560
+parsec_2.1.raytrace.simlarge.prebuilt.drop_36250M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.82266 instructions: 10000001 cycles: 5486493
+parsec_2.1.facesim.simlarge.prebuilt.drop_21500M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.789596 instructions: 10000000 cycles: 12664697
+parsec_2.1.raytrace.simlarge.prebuilt.drop_37000M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.78307 instructions: 10000000 cycles: 5608298
+parsec_2.1.swaptions.simlarge.prebuilt.drop_6500M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.36809 instructions: 10000000 cycles: 7309436
+parsec_2.1.streamcluster.simlarge.prebuilt.drop_0M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.90599 instructions: 10000000 cycles: 11037655
+parsec_2.1.facesim.simlarge.prebuilt.drop_11750M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.41399 instructions: 10000001 cycles: 7072206
+parsec_2.1.canneal.simlarge.prebuilt.drop_0M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.726357 instructions: 10000002 cycles: 13767331
+parsec_2.1.facesim.simlarge.prebuilt.drop_5000M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 1.64134 instructions: 10000000 cycles: 6092595
+parsec_2.1.fluidanimate.simlarge.prebuilt.drop_10000M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.871943 instructions: 10000000 cycles: 11468643
+parsec_2.1.facesim.simlarge.prebuilt.drop_1500M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.688042 instructions: 10000000 cycles: 14534000
+parsec_2.1.canneal.simlarge.prebuilt.drop_1250M.length_250M.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.339508 instructions: 10000001 cycles: 29454429
+test.xz-bimodal-no-no-no-no-lru-1core.txt:
+CPU 0 cumulative IPC: 0.519118 instructions: 10000000 cycles: 19263457
